@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Başlıksız.md",
+                "file": "Dart nedir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Başlıksız"
+              "title": "Dart nedir"
             }
           }
         ]
@@ -183,7 +183,7 @@
   },
   "active": "84ca789dbf01fe88",
   "lastOpenFiles": [
-    "Başlıksız.md",
+    "Dart nedir.md",
     "Database/Mongoose/mongoose.schema/schema.add().md",
     "Database/Mongoose/mongoose.schema/mongoose.Schema 2.md",
     "Database/Mongoose/mongoose.schema/methods vs statics.md",
@@ -216,4 +216,9 @@
     "Modüller/Class-Transformer",
     "Modüller/Class-Validator",
     "Database/Mongoose/mongoose.model",
-    "Database/Mongo
+    "Database/Mongoose/mongoose.schema",
+    "Database/Mongoose",
+    "Modüller/Multer",
+    "Diğer Detaylar/Modül Detay.canvas"
+  ]
+}
