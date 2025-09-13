@@ -280,14 +280,12 @@ class Person {
 ```
 
 - `==` ve `hashCode` doğru override edilmezse koleksiyonlarda sorun olur.
-    
 
 ---
 
 # 14) Immutable pattern ve `copyWith`
 
 - Immutable veri modellerinde `copyWith` sıklıkla kullanılır:
-    
 
 ```dart
 class User {
@@ -322,17 +320,11 @@ class Person {
 # 16) İyi uygulama (best practices) & yaygın hatalar
 
 - Alanları gerektiğinde `final` yap: değişmezliği garantile.
-    
 - `const` constructor varsa nesneleri compile-time sabit yap; performans avantajı var.
-    
 - `_private` üyeleri sınıf dışına sızmaz — fakat aynı kütüphane içinden erişilir (dosya bazlı değil, library bazlı).
-    
 - `late` kullanırken dikkatli ol (atama garantilenmeli).
-    
 - `==` ve `hashCode` uyumlu olmalı.
-    
 - JSON parse gibi tekrarlayan kod için `json_serializable` gibi paketler kullan (ileride istersen anlatırım).
-    
 
 ---
 
