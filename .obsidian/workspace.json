@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/OOP/Constructor.md",
+                "file": "Dart/OOP/Immutable Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constructor"
+              "title": "Immutable Structure"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "2816b630a514d892",
   "lastOpenFiles": [
-    "Dart/OOP/Class.md",
     "Dart/OOP/Constructor.md",
+    "Dart/OOP/Immutable Structure.md",
+    "Dart/OOP/Class.md",
     "Başlıksız.md",
     "Dart/OOP",
     "Dart/Exception Handling.md",
@@ -214,7 +215,6 @@
     "Database/Mongoose/mongoose.schema/mongoose.Schema 2.md",
     "Database/Mongoose/mongoose.schema/methods vs statics.md",
     "Database/Mongoose/mongoose.schema/mongoose.Schema.md",
-    "Database/Mongoose/mongoose.model/methods 2.md",
     "Modüller/Jose",
     "Modüller/bcrypt",
     "Modüller/InversifyJS",
