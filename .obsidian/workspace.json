@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Exception Handling.md",
+                "file": "Dart/OOP/Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exception Handling"
+              "title": "Class"
             }
           }
         ]
@@ -181,11 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "985015d992e5dd4c",
+  "active": "2816b630a514d892",
   "lastOpenFiles": [
+    "Başlıksız.md",
+    "Dart/OOP/Class.md",
     "Dart/OOP",
     "Dart/Exception Handling.md",
-    "Başlıksız.md",
     "Dart/Functions.md",
     "Dart/Control Flow Statements.md",
     "Dart/Variables.md",
@@ -218,7 +219,6 @@
     "Modüller/bcrypt",
     "Modüller/InversifyJS",
     "Security",
-    "Modüller/Class-Transformer",
     "Diğer Detaylar/Modül Detay.canvas"
   ]
 }
