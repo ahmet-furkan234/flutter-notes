@@ -181,9 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2816b630a514d892",
+  "active": "985015d992e5dd4c",
   "lastOpenFiles": [
+    "Dart/OOP",
     "Dart/Exception Handling.md",
+    "Başlıksız.md",
     "Dart/Functions.md",
     "Dart/Control Flow Statements.md",
     "Dart/Variables.md",
@@ -212,8 +214,6 @@
     "Database/Mongoose/mongoose.schema/mongoose.Schema.md",
     "Database/Mongoose/mongoose.model/methods 2.md",
     "Database/Mongoose/mongoose.model/mongoose.model.md",
-    "Database/Mongoose/mongoose.model/methods.md",
-    "Database/Mongoose/populate 2.md",
     "Modüller/Jose",
     "Modüller/bcrypt",
     "Modüller/InversifyJS",
