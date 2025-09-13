@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/OOP/Positional & Named Parameters.md",
+                "file": "Dart/OOP/Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Positional & Named Parameters"
+              "title": "Methods"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "003a079cee7401b4",
   "lastOpenFiles": [
-    "Dart/OOP/Getters & Setters.md",
+    "Dart/OOP/Parameters.md",
+    "Dart/OOP/Methods.md",
     "Dart/OOP/Positional & Named Parameters.md",
+    "Dart/OOP/Getters & Setters.md",
     "Dart/Code Structure and Comment Lines.md",
     "Dart/OOP/Fields.md",
     "Dart/OOP/Immutable Structure.md",
@@ -228,8 +230,6 @@
     "Data Types",
     "Dart/Dart.md",
     "Variables",
-    "Database/Mongoose/mongoose.schema/schema.add().md",
-    "Database/Mongoose/mongoose.schema/mongoose.Schema 2.md",
     "Modüller/Jose",
     "Modüller/bcrypt",
     "Modüller/InversifyJS",
