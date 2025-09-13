@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/OOP/Immutable Structure.md",
+                "file": "Dart/OOP/Getters & Setters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Immutable Structure"
+              "title": "Getters & Setters"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "2816b630a514d892",
   "lastOpenFiles": [
-    "Dart/OOP/Constructor.md",
+    "Dart/Code Structure and Comment Lines.md",
+    "Dart/OOP/Getters & Setters.md",
+    "Dart/OOP/Fields.md",
     "Dart/OOP/Immutable Structure.md",
+    "Dart/OOP/Constructor.md",
     "Dart/OOP/Class.md",
     "Başlıksız.md",
     "Dart/OOP",
@@ -203,7 +206,6 @@
     "Dart/Operators/Comparison Operators.md",
     "Dart/Operators/Arithmetic Operators.md",
     "Dart/Operators",
-    "Dart/Code Structure and Comment Lines.md",
     "Flutter",
     "Dart/Final & Const.md",
     "Dart",
@@ -213,8 +215,6 @@
     "Variables",
     "Database/Mongoose/mongoose.schema/schema.add().md",
     "Database/Mongoose/mongoose.schema/mongoose.Schema 2.md",
-    "Database/Mongoose/mongoose.schema/methods vs statics.md",
-    "Database/Mongoose/mongoose.schema/mongoose.Schema.md",
     "Modüller/Jose",
     "Modüller/bcrypt",
     "Modüller/InversifyJS",
