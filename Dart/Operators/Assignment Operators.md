@@ -1,16 +1,16 @@
 
 Atama operatörleri, bir değişkene **değer atamak** veya mevcut değerini güncellemek için kullanılır.
 
-|Operatör|Açıklama|Örnek|
-|---|---|---|
-|`=`|Basit atama|`a = 5`|
-|`+=`|Toplayarak atama|`a += 2` → `a = a + 2`|
-|`-=`|Çıkararak atama|`a -= 2` → `a = a - 2`|
-|`*=`|Çarparak atama|`a *= 2` → `a = a * 2`|
-|`/=`|Böler atama (double sonuç)|`a /= 2` → `a = a / 2`|
-|`~/=`|Tamsayı böler atama|`a ~/= 2` → `a = a ~/ 2`|
-|`%=`|Mod alarak atama|`a %= 3` → `a = a % 3`|
-|`??=`|Eğer değişken null ise değer ata|`a ??= 10`|
+| Operatör | Açıklama                         | Örnek                    |
+| -------- | -------------------------------- | ------------------------ |
+| `=`      | Basit atama                      | `a = 5`                  |
+| `+=`     | Toplayarak atama                 | `a += 2` → `a = a + 2`   |
+| `-=`     | Çıkararak atama                  | `a -= 2` → `a = a - 2`   |
+| `*=`     | Çarparak atama                   | `a *= 2` → `a = a * 2`   |
+| `/=`     | Böler atama (double sonuç)       | `a /= 2` → `a = a / 2`   |
+| `~/=`    | Tamsayı böler atama              | `a ~/= 2` → `a = a ~/ 2` |
+| `%=`     | Mod alarak atama                 | `a %= 3` → `a = a % 3`   |
+| `??=`    | Eğer değişken null ise değer ata | `a ??= 10`               |
 
 ---
 
