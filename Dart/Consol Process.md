@@ -156,8 +156,3 @@ void main() {
 - `int.parse()` / `double.parse()` → sayıya çevirir.
 - `try-catch` → hatalı girişleri yönetir.
 - Menü yapısı → konsol projelerinin temel iskeleti.
-
----
-
-👉 İstersen ben sana **ilk proje (01_calculator)** için konsol girişli tam kodu yazayım.  
-Bunu yapayım mı TkMatE?

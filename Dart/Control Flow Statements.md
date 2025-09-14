@@ -64,7 +64,6 @@ void main() {
 ## 2. **switch / case**
 
 - Bir değişkenin **birden fazla değerini** kontrol etmek için kullanılır.
-    
 
 ```dart
 void main() {
