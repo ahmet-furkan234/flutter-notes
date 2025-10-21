@@ -224,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37bbfe90b4f5ad8a",
+  "active": "985015d992e5dd4c",
   "lastOpenFiles": [
+    "Flutter",
     "Dart/Functions.md",
     "Dart/Final & Const.md",
     "Dart/Exception Handling.md",
@@ -251,7 +252,6 @@
     "Dart/Operators/Logical Operators.md",
     "Dart/Başlıksız.md",
     "Dart/Type Casting.md",
-    "Dart/OOP/Polymorphism.md",
     "Dart/OOP",
     "Dart/Operators",
     "Flutter",
