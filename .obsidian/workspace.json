@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/Variables.md",
+                "file": "Dart/Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "Functions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,11 +224,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e86cc87ba4088dc",
+  "active": "37bbfe90b4f5ad8a",
   "lastOpenFiles": [
     "Dart/Functions.md",
-    "Dart/Variables.md",
+    "Dart/Final & Const.md",
+    "Dart/Exception Handling.md",
+    "Dart/Enums.md",
+    "Dart/Dart.md",
+    "Dart/Control Flow Statements.md",
     "Dart/Code Structure and Comment Lines.md",
+    "Dart/OOP/Interface.md",
+    "Dart/OOP/Inheritance.md",
+    "Dart/Variables.md",
     "Dart/OOP/Factory Constructors.md",
     "Dart/OOP/Encapsulation.md",
     "Dart/OOP/Constructor.md",
@@ -236,7 +243,6 @@
     "Dart/OOP/Abstract class.md",
     "Dart/List Methods.md",
     "Dart/Consol Process.md",
-    "Dart/Control Flow Statements.md",
     "Dart/Map Methods.md",
     "Dart/Generic Class & Method.md",
     "Dart/Data Types.md",
@@ -245,13 +251,7 @@
     "Dart/Operators/Logical Operators.md",
     "Dart/Başlıksız.md",
     "Dart/Type Casting.md",
-    "Dart/Enums.md",
-    "Dart/Exception Handling.md",
     "Dart/OOP/Polymorphism.md",
-    "Dart/OOP/Mixin 2.md",
-    "Dart/OOP/Mixin.md",
-    "Dart/OOP/Interface.md",
-    "Dart/OOP/Inheritance.md",
     "Dart/OOP",
     "Dart/Operators",
     "Flutter",
