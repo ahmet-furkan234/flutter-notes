@@ -18,7 +18,6 @@ bool isStudent = true;  // Mantıksal değer
 ### b) `var` ile
 
 - Tip otomatik çıkarılır.
-    
 
 ```dart
 var city = "Istanbul";  // Dart bunu String olarak algılar
@@ -28,7 +27,6 @@ var score = 95;         // Dart bunu int olarak algılar
 ### c) `dynamic` ile
 
 - Tip değişebilir.
-    
 
 ```dart
 dynamic value = 10;
@@ -126,9 +124,3 @@ void main() {
   print("Orta ad: ${middleName ?? 'Yok'}");
 }
 ```
-
----
-
-TkMatE, bundan sonraki adım olarak **Operatörler ve Matematiksel İşlemler** konusunu detaylı şekilde ele alabiliriz.
-
-Bunu yapalım mı?

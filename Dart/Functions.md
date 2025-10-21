@@ -16,7 +16,6 @@ void main() {
 ```
 
 - `void` → fonksiyonun **geri dönüş değeri olmadığını** gösterir
-    
 
 ---
 
